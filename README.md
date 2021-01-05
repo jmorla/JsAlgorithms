@@ -24,7 +24,7 @@ I was tired to create those file manually and instead of doing a research to see
 
 ```$ ./algo.sh AlgorithmName funtionName ```
 
-the AlgorithmName is used to name the subdir created under ./src directory algo for add that name to the test suit
+the AlgorithmName is used to name the subdir created under ./src directory also add that name to the test suit
 the functionName it's for the function name :D
 
 so executing the script in this way will give us the result we see below
@@ -66,7 +66,7 @@ describe("SaveThePrisioner", () => {
 
 disclaimer!
 
-if the current directory does not have and src directory the command won't create it for you (we are bad guys)
+if the current directory does not have a src directory the command won't create it for you (we are bad guys)
 
 
 
